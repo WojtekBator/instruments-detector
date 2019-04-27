@@ -1,0 +1,32 @@
+{
+  "name": "instruments-detector",
+  "version": "0.0.1",
+  "description": "Comparative thesis testing web application. Machine Learning Classifiers comparison efficency when detecting musical instruments in recordings",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "fastify": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WojtekBator/instruments-detector.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "node.js"
+  ],
+  "author": "Wojciech Bator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WojtekBator/instruments-detector/issues"
+  },
+  "homepage": "https://github.com/WojtekBator/instruments-detector#readme"
+}
